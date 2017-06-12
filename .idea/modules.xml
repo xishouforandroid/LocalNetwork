@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LocalNetworkApp.iml" filepath="$PROJECT_DIR$/LocalNetworkApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocalNetwork.iml" filepath="$PROJECT_DIR$/LocalNetwork.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/localnet/localnet.iml" filepath="$PROJECT_DIR$/localnet/localnet.iml" />
     </modules>
